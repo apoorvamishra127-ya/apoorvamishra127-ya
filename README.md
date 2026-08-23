@@ -1,5 +1,5 @@
-Hi there
-About Me:
+## Hi there
+# About Me:
 AIML student | Python enthusiast | Aspiring AI/ML Engineer<br>I love learning, building projects, solving problems, and turning ideas into something useful. Currently exploring Machine Learning, Data Analytics, DSA, and Full-Stack Development. ✨<br>
 
 
